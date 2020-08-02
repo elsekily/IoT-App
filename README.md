@@ -1,1 +1,2 @@
-this app has two buttons each one makes http request get to adafruit to update value of led topic which subscribed by a nodeMcu 12E
+#IoT App
+  Two buttons apk each one sends http get request to Adafruit MQTT broker(server) which updates the value of led Feed(topic)
